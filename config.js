@@ -39,8 +39,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = process.env.PACKNAME
-global.author = process.env.AUTHOR
+global.packname = '𝗢𝗻𝗲 𝗕𝗼𝘁𝘇\n\nCreate You Sticker!\n\nwa.me/6282128475388'
+global.author = ''
 
 global.multiplier = 69 // The higher, The harder levelup
 
