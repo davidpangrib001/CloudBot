@@ -17,7 +17,7 @@ global.owner = [
   [`${process.env.NOWNER}`, `${process.env.NAMAOWNER}`, true]
   // [number, dia creator/owner?, dia developer?]
 // ] // Put your number here
-global.mods = [`${process.env.MODERATOR}`] // Want some help?
+global.mods = [`6282160268332`] // Want some help?
 global.prems = ['6282160268332','6282128475388'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
