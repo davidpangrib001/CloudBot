@@ -11,13 +11,14 @@ global.sgh = process.env.LINK_GITHUB
 global.sgc = process.env.LINK_GROUP
 global.ownernumber = process.env.NOWNER
 global.owner = [
-  ['0'],
-  ['0'],
+  ['6282160268332', 'Davitt', true],
+  ['0', 'kang banned', false],
+  ['6282128475388', 'bot', false']
   [`${process.env.NOWNER}`, `${process.env.NAMAOWNER}`, true]
   // [number, dia creator/owner?, dia developer?]
-] // Put your number here
+// ] // Put your number here
 global.mods = [`${process.env.MODERATOR}`] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.prems = ['6282160268332','6282128475388'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
